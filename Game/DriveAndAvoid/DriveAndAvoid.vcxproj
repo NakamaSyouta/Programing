@@ -161,6 +161,39 @@
     <ClInclude Include="TitleScene.h" />
     <ClInclude Include="Vector2D.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\drive-download-20240115T005632Z-001\ranking_data.csv" />
+    <None Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\drive-download-20240115T005632Z-001\result_data.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\back.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\barrier.png" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car1.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car1pol.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car2.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car3.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car4.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\cone.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\End.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\end_m.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\gasoline.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\gentuki.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\help_m.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\kan.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\menu.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number_b.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number_r.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Ranking.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\ranking_m.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS2.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS3.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\start_m.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\supana.bmp" />
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Title.bmp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

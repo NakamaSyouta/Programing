@@ -117,4 +117,95 @@
       <Filter>Utillty</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\drive-download-20240115T005632Z-001\ranking_data.csv">
+      <Filter>Resource\dat</Filter>
+    </None>
+    <None Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\drive-download-20240115T005632Z-001\result_data.csv">
+      <Filter>Resource\dat</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\back.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\barrier.png">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car1.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car1pol.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car2.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car3.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\car4.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\cone.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\End.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\end_m.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\gasoline.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\gentuki.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\help_m.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\kan.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\menu.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number_b.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Number_r.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Ranking.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\ranking_m.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS2.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\SS3.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\start_m.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\supana.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Users\kbc12306156\OneDrive\デスクトップ\ファイル集\ゲームジャム素材\images-20240115T010445Z-001\images\Title.bmp">
+      <Filter>Resource\images</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
