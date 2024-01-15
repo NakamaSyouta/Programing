@@ -13,10 +13,108 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{058e078d-d416-4d84-b904-a73dc76def20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{b8dd502e-8c0f-4c4f-bc08-159af6b2776e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utillty">
+      <UniqueIdentifier>{f1a93f56-10f4-44d3-9de9-41072e3d2242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{9e194d76-bbb4-4f32-89be-c2eab7871336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\dat">
+      <UniqueIdentifier>{ca0cff9e-a745-4ca8-af55-4f6fd0f1fc15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\images">
+      <UniqueIdentifier>{9d0ed197-9671-4b94-841c-f8aae35946ca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AppMain.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="RankingDate.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Barrier.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMainScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="RankingDispScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="RankinglnputScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="lnputControl.cpp">
+      <Filter>Utillty</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="RankingDate.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Barrier.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMainScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="RankingDispScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="RankinglnputScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneBase.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="lnputControl.h">
+      <Filter>Utillty</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Utillty</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

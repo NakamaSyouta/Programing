@@ -132,6 +132,34 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AppMain.cpp" />
+    <ClCompile Include="Barrier.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="GameMainScene.cpp" />
+    <ClCompile Include="HelpScene.cpp" />
+    <ClCompile Include="lnputControl.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="RankingDate.cpp" />
+    <ClCompile Include="RankingDispScene.cpp" />
+    <ClCompile Include="RankinglnputScene.cpp" />
+    <ClCompile Include="ResultScene.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="TitleScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Barrier.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="GameMainScene.h" />
+    <ClInclude Include="HelpScene.h" />
+    <ClInclude Include="lnputControl.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="RankingDate.h" />
+    <ClInclude Include="RankingDispScene.h" />
+    <ClInclude Include="RankinglnputScene.h" />
+    <ClInclude Include="ResultScene.h" />
+    <ClInclude Include="SceneBase.h" />
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="TitleScene.h" />
+    <ClInclude Include="Vector2D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
