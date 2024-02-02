@@ -19,9 +19,6 @@
     <Filter Include="Resource">
       <UniqueIdentifier>{b8dd502e-8c0f-4c4f-bc08-159af6b2776e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Utillty">
-      <UniqueIdentifier>{f1a93f56-10f4-44d3-9de9-41072e3d2242}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Scene">
       <UniqueIdentifier>{9e194d76-bbb4-4f32-89be-c2eab7871336}</UniqueIdentifier>
     </Filter>
@@ -30,6 +27,9 @@
     </Filter>
     <Filter Include="Resource\images">
       <UniqueIdentifier>{9d0ed197-9671-4b94-841c-f8aae35946ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{f1a93f56-10f4-44d3-9de9-41072e3d2242}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -70,7 +70,7 @@
       <Filter>Scene</Filter>
     </ClCompile>
     <ClCompile Include="lnputControl.cpp">
-      <Filter>Utillty</Filter>
+      <Filter>Utility</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -111,10 +111,10 @@
       <Filter>Scene</Filter>
     </ClInclude>
     <ClInclude Include="lnputControl.h">
-      <Filter>Utillty</Filter>
+      <Filter>Utility</Filter>
     </ClInclude>
     <ClInclude Include="Vector2D.h">
-      <Filter>Utillty</Filter>
+      <Filter>Utility</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
